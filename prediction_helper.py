@@ -1,4 +1,4 @@
-# codebasics ML course: codebasics.io, all rights reserverd
+pip install joblib
 
 import pandas as pd
 import joblib
